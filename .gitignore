@@ -1,0 +1,7 @@
+# ignore compiled files
+*.exe
+*.out
+
+# ignore temporary files
+*.swp
+*.sh
